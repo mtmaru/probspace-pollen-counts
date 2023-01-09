@@ -1,6 +1,6 @@
 # ProbSpace 花粉コンペ 3rd Place Solution
 
-ProbSpace「花粉飛散量予測」の 3rd place solution です。
+ProbSpace[「花粉飛散量予測」](https://comp.probspace.com/competitions/pollen_counts)の 3rd place solution です。
 
 ## 解法の概要
 
