@@ -73,4 +73,4 @@ ProbSpace[「花粉飛散量予測」](https://comp.probspace.com/competitions/p
 
 ## コード
 
-- [20230109_01.ipynb](./20230109_01.ipynb)
+- [20230109_01.ipynb](./20230109_01.ipynb) ([nbviewerで表示](https://nbviewer.org/github/mtmaru/probspace-pollen-counts/blob/main/20230109_01.ipynb))
