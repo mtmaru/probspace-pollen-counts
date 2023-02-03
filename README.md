@@ -71,6 +71,10 @@ ProbSpace[「花粉飛散量予測」](https://comp.probspace.com/competitions/p
 |花粉飛散量バースト補正 (5パーセンタイル20以上・宇都宮のみ)|12.81095|9.40397|
 |花粉飛散量バースト補正 (5パーセンタイル27以上・千葉のみ)|10.08458|8.19703	|
 
+## 資料
+
+[表彰式の発表資料](./ProbSpace花粉飛散量予測3位解法.pdf)
+
 ## コード
 
 - [20230109_01.ipynb](./20230109_01.ipynb) ([nbviewerで表示](https://nbviewer.org/github/mtmaru/probspace-pollen-counts/blob/main/20230109_01.ipynb))
